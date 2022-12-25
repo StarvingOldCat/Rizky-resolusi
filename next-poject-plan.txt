@@ -1,7 +1,7 @@
 NEXT PROJECT
 
 1. personal website
-    - website yg berisi hal2 seputar dirisa ya (ex: gallery, blog etc..)  
+    - website yg berisi hal2 seputar diri saya (ex: gallery, blog etc..)  
 2. movies website
     - berisi halaman website movie streaming melalui API
 3. cooking website
